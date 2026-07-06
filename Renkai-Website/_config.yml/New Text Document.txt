@@ -1,0 +1,5 @@
+theme: jekyll-theme-merlot
+title: Renkai Education
+description: Bridging Potential With Purpose
+show_downloads: false
+google_analytics:
